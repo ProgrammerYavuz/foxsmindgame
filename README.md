@@ -3,6 +3,8 @@
 <br> <h3> Proje Tanıtımı : </h3> <br>
 Oyunun ana karakteri bir tilkidir. Karakter düşman birlikleri ve harita üzerinde bulunan tuzakları geçerek harita sonunda bulunan hedefine ulaşması gerekmektedir. Karakter harita üzerinde ilerlerken mücevher ve can yenilenmesini sağlayan kirazları toplayabilmektedir. Tilki düşman birliklerden ve tuzaklardan yarım kalp hasar almaktadır. Tilki her hasar aldığında 1 saniyelik ölümsüzlük etkisi uygulanır. Tilki düşmanları öldürdüğünde %50 ihtimalle düşman karakterden kiraz düşecekti ve eğer oyuncunun can barı tam dolu ise bu kirazı alamayacaktır. Oyun da 5 normal harita, 1 zor harita ve 1 final haritası bulunmaktadır. Oyunda bir harita tamamlanmadan diğer haritaya geçilmemektedir. Zor haritanın tamamlanma zorunluluğu yoktur ve o harita oynanmadan final haritasına geçilebilir. Oyuncu final haritasında boss düşman karakterle savaşacaktır. Bossu yenmesinin ardından oyun sonlanmaktadır. <br><br>
 
+<h4>Oyunu oynayabilmek için Fox's Mind klasörünü indirip, exe dosyasını çalıştırınız.</h4> <br><br>
+
 * <h4>Oyun giriş ekranı</h4>
 ![14](https://user-images.githubusercontent.com/109480983/208787658-21094a86-8dce-44cc-a4ef-fbe66ede1787.png)
 <br />
@@ -45,4 +47,3 @@ Oyunun ana karakteri bir tilkidir. Karakter düşman birlikleri ve harita üzeri
 * <h4>Oyun tamamlandı</h4>
 ![27](https://user-images.githubusercontent.com/109480983/208787651-825c46a2-8be0-48d2-a485-bc048229fec6.png)
 <br />
-<h4>Oyun oynamak için Fox's Mind klasörünü indirip, exe dosyasını çalıştırınız.</h4>
