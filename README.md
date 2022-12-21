@@ -21,7 +21,7 @@ Oyunun ana karakteri bir tilkidir. Karakter düşman birlikleri ve harita üzeri
 * <h4>Harita sonu</h4>
 ![19](https://user-images.githubusercontent.com/109480983/208787622-198ea5c0-afdb-4f54-847b-4fd048883e9c.png)
 <br />
-* <h4>trambolin</h4>
+* <h4>Trambolin</h4>
 ![22](https://user-images.githubusercontent.com/109480983/208787631-00e8f4ed-9c3b-491f-8f38-a89ada923c03.png)
 <br />
 * <h4>Kartal saldırı birliği</h4>
