@@ -45,3 +45,4 @@ Oyunun ana karakteri bir tilkidir. Karakter düşman birlikleri ve harita üzeri
 * <h4>Oyun tamamlandı</h4>
 ![27](https://user-images.githubusercontent.com/109480983/208787651-825c46a2-8be0-48d2-a485-bc048229fec6.png)
 <br />
+<h4>Oyun oynamak için Fox's Mind klasörünü indirip, exe dosyasını çalıştırınız.</h4>
